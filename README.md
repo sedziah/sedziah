@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sedziah
 - 👀 I’m interested in Python,Machine Learning,Artificial Intelligence, EdTech, Fintech and MedTech
-- 🌱 I’m currently learning Python, Django and Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m Full Stack Developer
+- 💞️ I’m looking to collaborate on impact driven and interesting projects 
+- 📫 How to reach me email: sedziah1@gmail.com or phone:+233(0)244726007
 
 <!---
 sedziah/sedziah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
