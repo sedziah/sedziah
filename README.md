@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @sedziah
-- 👀 I am interested in Web & Software Development,Machine Learning,Artificial Intelligence, EdTech, Fintech and MedTech
-- 🌱 I am a Softwware Developer
-- 💞️ I love to solve problems with code and open to contributing to any impactful project (Kindly share with me if you know of any :)). 
-- 📫 How to reach me email: sedziah1@gmail.com or phone:+233(0)244726007
+👋 Hello there! I'm Sedziah, a passionate Systems and Software Engineer.
 
-<!---
-sedziah/sedziah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 My professional curiosity spans across a diverse range of fields in technology, particularly Web & Software Development, Machine Learning, Artificial Intelligence, as well as emerging sectors like Educational Technology, Financial Technology, and Medical Technology.
+
+👨‍💻 As a dedicated Software Developer, I thrive on the challenges and rewards of crafting elegant and efficient code. My goal is to create solutions that not only solve complex problems but also make a tangible difference in people’s lives.
+
+❤️ Collaborating on meaningful projects energizes me. If you’re working on something that seeks to make a positive impact and could use an extra pair of skilled hands, don’t hesitate to reach out. I’m always eager to contribute and learn in the process.
+
+📬 Want to discuss a project, share an idea, or just say hello? Feel free to connect with me via email at sedziah1@gmail.com or give me a call at +233(0)244726007. Let’s explore how we can create something amazing together!
+
+
